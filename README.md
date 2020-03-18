@@ -1,4 +1,4 @@
-# Find-non-duplicating-int (C++)
+# Find All Duplicate Integers (C++)
 
 Given an array of integers, return all duplicated elements (any number of duplicates)
 -
